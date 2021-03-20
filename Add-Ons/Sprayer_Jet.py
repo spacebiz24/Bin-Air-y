@@ -2,7 +2,7 @@
 
 from smbus import SMBus
 
-addr = 0x8
+addr = 0x8 # Arduino address
 bus = SMBus
 
 numb = 1
